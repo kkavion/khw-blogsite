@@ -106,5 +106,5 @@ deploy:
 # hexo-admin authentification
 admin:
   username: kkavion
-  password_hash: $2a$10$yeThFkCVg6Zx.dcz8zuEnO1pZMojj.MnajVro3xl3r0MdCIDSHh8S
+  password_hash: $2a$12$I6ROlVNBuoRgU9HQVmRMaulHivmEaKiQ8FbfhXezPyuj0RAbx/wz.
   secret: this phrase is used to validate cookie protection

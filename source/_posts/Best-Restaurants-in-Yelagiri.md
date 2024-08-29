@@ -1,6 +1,8 @@
 title: Best Restaurants in Yelagiri
-date: 2024-05-28 19:40:14
-tags:
+tags: []
+categories:
+  - Food
+date: 2024-05-28 19:40:00
 author:
 ---
 The cuisine of Yelagiri is an earthy one, loyal to its agrarian and tribal origins, leaving a rather homely aftertaste on your tongue. The typical penchant for rice-based dishes is obvious as the region thrives on paddy. Payasam and Jangiri are popular desserts that both draw on local tastes. You will no doubt find an unmistakable touch of coconut on your palate for any meal if you please.  

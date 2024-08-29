@@ -1,6 +1,8 @@
 title: Recreation in Kasauli - Best Spots for Adventure and Leisure
-date: 2024-05-28 18:23:27
-tags:
+tags: []
+categories:
+  - recreation
+date: 2024-05-28 18:23:00
 author:
 ---
 Kasauli offers an amusing array of physical activities and entertainment. If you are looking for those moments of adrenaline rush, then paragliding is a must for you! Forest lovers and adventure junkies often gravitate towards activities like trekking and camping. Whether its flying with the birds up above the mountains of Kasauli or making your way through the thicks forests or camping under the starry night skies, Kasauli has a little something for everyone.

@@ -7,7 +7,11 @@ date: 2024-05-23 14:26:00
 Rajasthan is well known for its desert, culture and religious structures, but it is also synonymous with incredible food. Mt. Abu has some of the best representations of Rajasthani food available in the state. The crunchy baatis with churma or the native sangar will tickle your taste buds with the most delicious flavours. True culinary nirvana can be experienced in roadside joints, café s and restaurants present aplenty throughout the town of Mt. Abu. Since Jainism is the predominant religion followed, most outlets serve only vegetarian food and non- vegetarian food is served in very few joints. Indian food is also available in multiple restaurants with Punjabi, South Indian and Chinese cuisines being the most prevalent.
 
 ### 1. Jodhpur Bhojanalaya
-![text](https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg)
+|![text](https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg)|
+|:--:|
+Space walk
+
+
 **Location**: *Cama Rajputana Club Resort, Adhar Devi Road, Mount Abu, Rajasthan*<br>
 **Cuisine**:<br>
 **Open**:<br>

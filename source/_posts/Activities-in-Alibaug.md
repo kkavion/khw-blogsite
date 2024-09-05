@@ -2,6 +2,7 @@ title: Activities in Alibaug
 date: 2024-05-25 21:13:37
 tags:
 author:
+thumbnail: "https://tripcapsule.in/wp-content/uploads/2023/01/Alibaug.jpg"
 ---
 Having some of the most beautiful beaches, Alibag is a delight to visit. The coastal stretch is full of adventures and surprises. The main thrill resides in the water sports conducted under the supervision of trained experts. This town provides you the right balance of nature and adventure and a host of memorable experiences. If you’re rooting for some adrenaline gushing experience to take back, this is the perfect place to be.
 

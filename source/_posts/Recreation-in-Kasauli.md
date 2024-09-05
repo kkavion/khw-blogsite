@@ -1,7 +1,7 @@
 title: Recreation in Kasauli - Best Spots for Adventure and Leisure
 tags: []
 categories:
-  - recreation
+  - Recreation
 date: 2024-05-28 18:23:00
 author:
 ---

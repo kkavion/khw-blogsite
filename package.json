@@ -12,7 +12,6 @@
     "version": "7.2.0"
   },
   "dependencies": {
-    "@mapbox/node-pre-gyp": "^1.0.11",
     "bootstrap": "^5.3.3",
     "hexo": "^7.0.0",
     "hexo-admin": "^2.3.0",
@@ -26,7 +25,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-redefine": "^2.7.1",
     "hexo-wordcount": "^6.0.1",
-    "node-pre-gyp-github": "^2.0.0",
     "nodejieba": "^3.2.0",
     "shell-quote": "^1.8.1",
     "tough-cookie": "^4.1.4"

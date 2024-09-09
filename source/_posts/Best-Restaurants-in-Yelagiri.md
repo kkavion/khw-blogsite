@@ -2,13 +2,13 @@ title: Best Restaurants in Yelagiri
 tags: []
 categories:
   - Food
-date: 2024-05-28 19:40:00
-author:
+date: 2024-9-9
+author: Marita
 thumbnail: "https://img.veenaworld.com/wp-content/uploads/2023/05/Exploring-the-Serenity-of-Yelagiri-A-Hidden-Gem-in-Tamil-Nadu.jpg"
 ---
 The cuisine of Yelagiri is an earthy one, loyal to its agrarian and tribal origins, leaving a rather homely aftertaste on your tongue. The typical penchant for rice-based dishes is obvious as the region thrives on paddy. Payasam and Jangiri are popular desserts that both draw on local tastes. You will no doubt find an unmistakable touch of coconut on your palate for any meal if you please.  
 
-## 1. Peter’s Park Restaurant
+### Peter’s Park Restaurant
 
 ![Peter’s Park Restaurant](https://wallpapercrafter.com/sizes/1366x768/108198-purple-nature-colorful-trees-forest-smoke-mist-artwork.jpg)
 
@@ -21,12 +21,11 @@ The cuisine of Yelagiri is an earthy one, loyal to its agrarian and tribal origi
 
 Let the open-air surrounding and the old-school charm of a shamiana elevate your dining experience along with the crispy chicken 65 tempered with spices and curry leaves. You can also try the Medhu Vada for breakfast. The pillowy soft vada with sides of coconut chutney and sambar would ensure your day begins on a cheerful note!   
 
-**Must Savour**<br>
-Chicken 65, Medhu Vada
+**Must Savour**: Chicken 65, Medhu Vada
 
 ---
 
-### 2. Anthurium
+### Anthurium
 **Location**: Cama Rajputana Club Resort, Adhar Devi Road, Mount Abu, Rajasthan
 **Cuisine**:
 **Open**:
@@ -38,7 +37,7 @@ Experience an explosion of flavour in every bite in this multi-cuisine restauran
 Paneer Makhani, Hakka Noodles
 
 
-### 3. Nigress Restaurant
+### Nigress Restaurant
 **Location**: Cama Rajputana Club Resort, Adhar Devi Road, Mount Abu, Rajasthan<br>
 **Cuisine**:<br>
 **Open**:<br>
@@ -51,7 +50,7 @@ Kadhai chicken, Fried rice
 
 --- 
 
-### 4. Thenkani Food Court
+### Thenkani Food Court
 **Location**: Cama Rajputana Club Resort, Adhar Devi Road, Mount Abu, Rajasthan<br>
 **Cuisine**:<br>
 **Open**:<br>
@@ -63,7 +62,7 @@ With a contemporary design, the restaurant is built to provide privacy to every 
 Chicken Malai
 
 
-### 5. Valleyview Multicuisine Pure Veg Restaurant
+### Valleyview Multicuisine Pure Veg Restaurant
 **Location**: C/O Hotel Hillock, Post Box No 40, Sirohi, Mount Abu - 307501<br>
 **Cuisine**:<br>
 **Open**: 11:00 am - 11:00 pm<br>

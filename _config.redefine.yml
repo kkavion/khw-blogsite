@@ -11,11 +11,11 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: false
+  title: Experience
   # Author name
   author: KHW
   # Site URL
-  url: https://blog.kkavionholidayworld.com
+  url: https://kkavionholidayworld.com
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -124,7 +124,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: KHW Blog
+  title: Experience
   # Home banner subtitle
   subtitle:
     text: ["Explore the beautiful world", "Wander through mystical mountains", "Experience backwater bliss", "Savour sun, sand & sea", "Journey through time", "Excounter the wild"] # subtitle text, array
@@ -186,8 +186,10 @@ navbar:
   auto_hide: false
   # Navbar background color
   color:
-    left: "#f78736" #left side 
-    right: "#367df7"  #right side
+  #  left: "#f78736" #left side 
+  #  right: "#367df7"  #right side
+    left: "#fb6a00"
+    right: "#049dd9"
     transparency: 35 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
@@ -195,8 +197,10 @@ navbar:
     pages: 1200px #other pages
   # Navbar links
   links:
-    # Home: 
-    #   path: / 
+    Home: false
+    KHW: 
+      path: https://kkavionholidayworld.com
+      icon: fa-regular fa-reply
     #   icon: fa-regular fa-house # can be empty
     # Archives: 
     #   path: /archives 
@@ -217,9 +221,10 @@ navbar:
     Trending:
       path: /categories/Trending/
     About: 
-    #  icon: fa-regular fa-user
-      submenus:
-        Me: /about
+      path: https://kkavion.com
+      icon: fa-regular fa-user
+    #  submenus:
+    #    Me: /about
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
@@ -266,7 +271,7 @@ home:
   excerpt_length: 150 # Max length of article excerpt
   # Article categories visibility
   categories:
-    enable: true  # Whether to enable
+    enable: false  # Whether to enable
     limit: 3 # Max number of categories to display
   # Article tags visibility
   tags:
@@ -400,7 +405,7 @@ footer:
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
   # start: 2022/8/17 11:45:14
   # Site statistics
-  statistics: false # show site statistics or not (total articles, total words)
+  statistics: true # show site statistics or not (total articles, total words)
   # Footer message
   customize:
   # ICP record number. See https://beian.miit.gov.cn/
@@ -418,7 +423,7 @@ inject:
   enable: true
   # Inject custom head html code
   head: 
-    - <link rel="stylesheet" href="css/custom.css">
+    - <link rel="stylesheet" href="/css/custom.css">
     -
   # Inject custom footer html code
   footer:

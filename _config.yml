@@ -4,16 +4,16 @@
 
 # Site
 # title:
-subtitle: ''
-description: ''
+# subtitle: ''
+# description: ''
 keywords:
-author: 
+# author: 
 language: en
-timezone: ''
+timezone: 'Asia/Kolkata'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.kkavionholidayworld.com
+url: https://kkavionholidayworld.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -102,9 +102,3 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-# hexo-admin authentication
-admin:
-  username: kkavion
-  password_hash: $2a$12$I6ROlVNBuoRgU9HQVmRMaulHivmEaKiQ8FbfhXezPyuj0RAbx/wz.
-  secret: this phrase is used to validate cookie protection

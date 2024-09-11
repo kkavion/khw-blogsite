@@ -23,7 +23,8 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  # favicon: /images/redefine-favicon.svg
+  favicon: https://kkavionholidayworld.com/images/favicon.ico
   # Site logo
   logo: /images/ih-logo.webp
   # Site avatar

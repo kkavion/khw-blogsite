@@ -63,6 +63,12 @@ d. Each level will show on the right side contents bar.
 |---|---|
 | `<u>This text is underlined</u>` | <u>This text is underlined</u> |
 
+## Strikethrough
+
+| Syntax | Output |
+|---|---|
+| `~~This text is strikethrough~~` | ~~This text is strikethrough~~ |
+
 ## Blockquotes
 
 Syntax
@@ -150,7 +156,7 @@ Output:
 5. cat
 9. dog
 
-### Indented List
+### Indented List 
 
 - Use `TAB` key on the keyboard twice if you want to keep same numbering.
 - Use `Space` key four times or one `TAB` for numbering change
@@ -173,7 +179,7 @@ Output with four `Space` or one `TAB`:
 
 ## Unordered List
 
-Use `-` at the beginning to denote an unordered list
+Use `-` at the beginning to denote an unordered list 
 
 Syntax
 ` - apple`

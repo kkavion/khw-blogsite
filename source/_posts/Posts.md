@@ -69,6 +69,12 @@ d. Each level will show on the right side contents bar.
 |---|---|
 | `~~This text is strikethrough~~` | ~~This text is strikethrough~~ |
 
+## Highlight
+
+| Syntax | Output |
+|---|---|
+| `This text is <mark>highlighted</mark>` | This text is <mark>highlighted</mark> |
+
 ## Blockquotes
 
 Syntax
@@ -124,7 +130,19 @@ With underline
 `> <u>This is underlined</u>`
 > <u>This is underlined</u>
 
-and so on. 
+and so on.
+
+## Subscript
+
+| Syntax | Output |
+|---|---|
+| `H<sub>2</sub>O` | H<sub>2</sub>O |
+
+## Superscript
+
+| Syntax | Output |
+|---|---|
+| `x<sup>2</sup>` | x<sup>2</sup> |
 
 # Lists
 
@@ -200,18 +218,110 @@ Output
 Similar to ordered list style
 
 ### Starting Unordered List Items With Numbers
-If you need to start an unordered list item with a number followed by a period, you can use a backslash (\) to escape the period.
+If you need to start an unordered list item with a number followed by a period, you can use a backslash `\` to escape the period.
 
 Syntax
-` - 10\. apple`
+` - 10 apple`
 ` - 20\. ball`
 ` - cat`
 ` - dog`
 ` - elephant`
 
 Output
-- 10\. apple
+- 10 apple
 - 20\. ball
 - cat
 - dog
 - elephant
+
+# Code Blocks
+
+## Backticks
+
+| Syntax | Output |
+|---|---|
+| ``Use single backtick to denote `code`.`` | Use single backtick to denote `code`. |
+
+## Code Block
+
+Use a single `TAB` or 4 `Space` for code block
+
+Output
+
+    <HTML>
+        <Body>
+        Test
+        </Body>
+    </HTML>
+
+# Links
+
+## Links with title (hidden links)
+
+| Syntax | Output |
+|---|---|
+| `[This is text](https://kkavion.com)` | [This is text](https://kkavion.com) |
+
+## Links without title
+
+| Syntax | Output |
+|---|---|
+| `https://kkavion.com` | https://kkavion.com |
+| `info@kkavion.com` | info@kkavion.com |
+
+* Links can also be formatted using Emphasis(shown above)
+
+## Images
+
+Use `!` exclamation mark followed by alternative text in square brackets `[]` and then the link to the image file in parenthesis `()`
+
+| Syntax | Output |
+|---|---|
+| `![KHW Logo](/images/ih-logo.webp)` | ![KHW Logo](/images/ih-logo.webp) |
+
+- Markdown doesn't support image sizing so to resize the image you will have to use HTML tags
+
+| Syntax | Output |
+|---|---|
+| `<img src="/images/ih-logo.webp" height="" width="150" alt="KHW Logo">` | <img src="/images/ih-logo.webp" height="100" width="150" alt="KHW Logo"> |
+
+# Tables
+To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column.
+
+Syntax
+
+`| Syntax      | Description |`
+`|---|---|`
+`| Header      | Title       |`
+`| Paragraph   | Text        |`
+
+Output
+
+| Syntax      | Description |
+|---|---|
+| Header      | Title       |
+| Paragraph   | Text        |
+
+## Alignment
+
+Use the (:) with (---) to specify alignment in the columns
+
+Syntax
+
+`| Left Align | Center Align | Right Align |`
+`|:---|:---:|---:|`
+`| Left | Center | Right |`
+
+Output
+
+| Left Align | Center Align | Right Align |
+|:---|:---:|---:|
+| Left | Center | Right |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```

@@ -1,5 +1,5 @@
 ---
-title: Components to be used in Posts
+title: Markdown Components for Posts
 date: 2024-09-11 14:39:44
 categories:
 tags:
@@ -254,6 +254,22 @@ Output
         </Body>
     </HTML>
 
+## Fenced Code Blocks
+
+Use triple backticks ``` at the beginnning and the end of the code
+
+Syntax
+![](../images/codeblock.png)
+
+Output
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 # Links
 
 ## Links with title (hidden links)
@@ -317,11 +333,3 @@ Output
 | Left Align | Center Align | Right Align |
 |:---|:---:|---:|
 | Left | Center | Right |
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```

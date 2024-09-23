@@ -1,5 +1,5 @@
 ---
-title: Recreation in Panchgani Blog
+title: Recreation in Panchgani
 date: 2024-09-21 19:26:52
 categories: Recreation
 tags:

@@ -5,7 +5,8 @@ categories: Food
 tags:
 author: Peter Robin
 avatar:
-thumbnail:
+thumbnail: "../images/Blog Post Sample.jpg"
+sticky: true
 ---
 Varkala's culinary scene stands out from its neighbouring areas, particularly for its emphasis on fresh seafood and a unique cultural influence. This charming destination is one of those rare places you can fall in love with repeatedly without ever feeling bored. Here, seafood is sourced directly from local fishermen, ensuring exceptional quality and freshness. You can even watch the chefs prepare your meal right before your eyes, allowing for a personalized dining experience tailored to your taste.
 

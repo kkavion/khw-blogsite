@@ -7,6 +7,7 @@ date: 2024-9-10
 author: Marita
 avatar: "https://uploads.vw-mms.de/system/production/images/vwn/030/145/images/7a0d84d3b718c9a621100e43e581278433114c82/DB2019AL01950_web_1600.jpg?1649155356"
 thumbnail: "https://img.veenaworld.com/wp-content/uploads/2023/05/Exploring-the-Serenity-of-Yelagiri-A-Hidden-Gem-in-Tamil-Nadu.jpg"
+sticky: true
 ---
 The cuisine of Yelagiri is an earthy one, loyal to its agrarian and tribal origins, leaving a rather homely aftertaste on your tongue. The typical penchant for rice-based dishes is obvious as the region thrives on paddy. Payasam and Jangiri are popular desserts that both draw on local tastes. You will no doubt find an unmistakable touch of coconut on your palate for any meal if you please.  
 

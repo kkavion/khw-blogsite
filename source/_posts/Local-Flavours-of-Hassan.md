@@ -5,9 +5,10 @@ categories: Food
 tags:
 author: Hassan
 avatar:
-thumbnail: ! (file:///C:/Users/ASUS/Downloads/WhatsApp%20Image%202024-09-25%20at%2001.27.21.jpeg)
+thumbnail: 
+banner: "../images/Blog Post Sample.jpg"
 ---
-Hassan's dining scene is a vibrant tapestry of flavors, reflecting the region's rich culinary heritage. From traditional vegetarian fare to delightful non-vegetarian dishes, the city offers an array of dining options that cater to diverse palates. Local eateries like Mythri Restaurant and Twist showcase authentic flavors and affordability, while establishments such as Parijata Restaurant and Suvarna Gate provide a mix of South and North Indian cuisines. Whether you crave hearty breakfasts or sumptuous dinners, Hassan promises a memorable gastronomic experience.
+Hassan's dining scene is a vibrant tapestry of flavours, reflecting the region's rich culinary heritage. From traditional vegetarian fare to delightful non-vegetarian dishes, the city offers an array of dining options that cater to diverse palates. Local eateries like Mythri Restaurant and Twist showcase authentic flavours and affordability, while establishments such as Parijata Restaurant and Suvarna Gate provide a mix of South and North Indian cuisines. Whether you crave hearty breakfasts or sumptuous dinners, Hassan promises a memorable gastronomic experience.
 
 ### Mythri Restaurant
 **Location**: Mangalore Hwy, Sakleshpura, 573134
